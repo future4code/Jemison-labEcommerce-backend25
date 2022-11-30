@@ -1,0 +1,29 @@
+{
+  "name": "revisao-mod5",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">:file_cabinet: Revisão - Módulo 5 - JBL</h1>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev ./src/index.ts",
+    "start": "tsc && node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future4code/Jemison-labEcommerce-backend25.git"
+  },
+  "keywords": [],
+  "author": "Ricardo Ferrão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future4code/Jemison-labEcommerce-backend25/issues"
+  },
+  "homepage": "https://github.com/future4code/Jemison-labEcommerce-backend25#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "dotenv": "^16.0.3",
+    "npm-cli": "^0.1.0"
+  }
+}

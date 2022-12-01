@@ -10,8 +10,9 @@ Conceitos já visto aqui no backend :
 *   Knex;
 *   Ferramentas de backend.
 
-## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+## :books: Aulas assistidas
+* <b>Vídeo 1</b>: Node e NPM (Conceitos de node, NPM, Adicionar Dependências, Preenchendo Package.json)
+* <b>Vídeo 2</b>: Introdução ao Typescript (Tipagens de Variáveis, Tipagem de funções, Type, Enum)
 
 ## :wrench: Tecnologias utilizadas
 *   Typescript;
@@ -24,7 +25,7 @@ Conceitos já visto aqui no backend :
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+npm install
 ```
 
 ## :soon: Implementação futura

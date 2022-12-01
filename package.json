@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/future4code/Jemison-labEcommerce-backend25#readme",
   "devDependencies": {
+    "@types/node": "^18.11.10",
     "typescript": "^4.9.3"
   },
   "dependencies": {

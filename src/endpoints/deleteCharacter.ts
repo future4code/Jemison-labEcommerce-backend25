@@ -1,5 +1,4 @@
 import { Request, Response } from 'express';
-import {characters} from '../data';
 
 
 
@@ -9,13 +8,13 @@ export default function deleteCharacter(
 ):void{
     
     const { id } = req.params
-
+/*
     const index:number = characters.findIndex(
         character => character.id === Number(id)
     )
 
     if(index > -1) characters.splice(index, 1)
-
+*/
     res.status(200).end()
 
 }

@@ -1,6 +1,6 @@
 import { movie, character, GENDER } from './types';
 
-
+/*
 export let movies: movie[] = [
     {
         id:1,
@@ -13,8 +13,8 @@ export let movies: movie[] = [
         year:2016
     }
 ]
-
-export let characters:character[] = [
+*/
+/*export let characters:character[] = [
     {
         id:1,
         name:"Storm",
@@ -31,4 +31,4 @@ export let characters:character[] = [
         name:"Colossus",
         gender:GENDER.MALE
     }
-]
+]*/

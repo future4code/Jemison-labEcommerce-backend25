@@ -1,5 +1,4 @@
 import {Request, Response} from "express"
-import { characters } from "../data"
 
 
 export default function(
@@ -7,6 +6,8 @@ export default function(
     res:Response
 ):void{
     
-    res.send(characters)
+    const name = req.query
+
+    //res.send(characters)
 
 }

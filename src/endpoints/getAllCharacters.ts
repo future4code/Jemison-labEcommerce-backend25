@@ -25,7 +25,7 @@ export default async function getAllCharacters (
 
         const offset =  resultsPerPage * (Number(page)-1)
 
-
+      
         const characters: character[] = await connection("character")
 
             .where("name", "LIKE", `%${name}%`)

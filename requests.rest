@@ -1,4 +1,6 @@
-GET http://localhost:3003/character?name=o&page=2
+
+GET http://localhost:3003/character?name=o
+
 
 ###
 

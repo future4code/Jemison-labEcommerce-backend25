@@ -35,7 +35,7 @@ npm install
 ```
 
 ## :soon: Deploy
-* xxx
+* https://labecommerce-revisao-3rju.onrender.com
 
 ## :handshake: Autor
 <table>
@@ -47,5 +47,6 @@ npm install
 </table>
 
 ## :dart: Documentação
+- Não consegui fazer a docuemntação do Postman
 
 
